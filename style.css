@@ -1,0 +1,28 @@
+h1 {
+    text-transform: uppercase;
+    background-color: lightgrey;
+    font-size: 40px;
+    color: steelblue;
+    
+}
+ h3 {
+    color: steelblue;
+}
+header{
+    text-align: center;
+}
+h3{
+    text-transform: uppercase;
+    background-color: lightgrey;
+}
+span{
+    font-weight: bold;
+}
+
+footer{
+    background-color:steelblue;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    height: 40px;
+}
